@@ -1,0 +1,17 @@
+{
+  "name": "pig_game",
+  "version": "1.0.0",
+  "default": "index.js",
+  "scripts": {
+  "start": "parcel index.html",
+  "build": "parcel build index.html"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
